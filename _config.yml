@@ -16,7 +16,7 @@ weibo_username:     Jianghaowen
 zhihu_username:     Jianghaowen
 github_username:    Jianghaowen
 twitter_username:   Jianghaowen
-#facebook_username:  huxpro
+#facebook_username:  Jianghaowen
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -48,7 +48,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: Jianghaowen
 
 # Netease setttings
 netease_comment: false
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "生于天地之清澈，<br>归于本愿之清澄。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
