@@ -7,7 +7,8 @@ author:     "Hux"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 生活
+    - 生活
+---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-2018年新年马上就要到了，感觉自己可能变得越来越找不回原来的感觉了，蛋疼的生活，我到底应该去做什么或者实现什么呢？怎么才能让自己每天都变得快快乐乐呢？希望能享受生活。
 
 
