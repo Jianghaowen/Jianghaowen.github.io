@@ -85,7 +85,7 @@ service-worker: true
 
 
 # Friends
-大神博客: [
+blogs: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
