@@ -47,11 +47,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: Hao-wen Jiang
+disqus_username: haowenjiang
 
 # Netease setttings
-netease_comment: true
-
+#netease_comment: 
 
 
 # Analytics settings
