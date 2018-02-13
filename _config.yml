@@ -50,7 +50,7 @@ kramdown:
 disqus_username: Hao-wen Jiang
 
 # Netease setttings
-netease_comment: false
+netease_comment: true
 
 
 
