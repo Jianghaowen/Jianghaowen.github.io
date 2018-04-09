@@ -47,3 +47,7 @@
          left: 0;
          z-index: 9999;
 }
+@font-face {
+	    font-family: 'wbficonregular';
+	    src: url('/fonts/wbficon.woff'); 
+}
