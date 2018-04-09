@@ -315,4 +315,28 @@
     _render();
 </script>
 {% endif %}
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2101031449&auto=1&height=430"></iframe>
+<iframe id="music4" frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="http://music.163.com/outchain/player?type=0&id=2101031449&auto=0&height=430"></iframe>
+<a href="javascript:void(0)" id="guan2">X</a>
+<div id="music">
+ <a href="javascript:void(0)" id="music5">
+  <i id="music2"></i>
+  <span id="music3"></span>
+  <img src="imagin/default_cover.jpg">
+ </a>
+   <script>  
+ $("#music5").click(
+    function(){
+               $("#music4").css('display','block');
+               $("#music5").css('display','none');
+			   $("#guan2").css('display','block');
+    }
+);
+ $("#guan2").click(
+    function(){
+               $("#music4").css('display','none');
+               $("#music5").css('display','block');
+			   $("#guan2").css('display','none');
+    }
+);
+</script>
+</div>
