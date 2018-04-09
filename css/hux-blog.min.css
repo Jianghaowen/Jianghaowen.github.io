@@ -51,3 +51,6 @@
 	    font-family: 'wbficonregular';
 	    src: url('/fonts/wbficon.woff'); 
 }
+a:hover {
+	  text-decoration:none;
+}
