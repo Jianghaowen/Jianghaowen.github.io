@@ -3,6 +3,7 @@
 <head>
 <title>我的生平经历是爱与希望的微博_微博</title>
 <meta http-eqiuv="content-type" content="text/html;charset=utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <link rel="stylesheet" href="style.css" type="text/css"/>
 <script type="text/javascript" src="jquery-3.2.1.min.js"></script>
 <link rel="stylesheet" href="viewer.min.css">
@@ -1897,5 +1898,108 @@ $("#cai8").mouseout(
     }
 );
 </script>
+<div id="sixing">
+ <a href="javascript:void(0)" id="sixing6">
+	 <span id="sixing1"></span>
+	 <em id="sixing2">私信聊天</em>
+	 <span id="sixiang3">
+     <em id="sixing4"></em>
+  </a>	 
+ </span>
+</div>
+<div id="sixing5">
+  <a href="javascript:;" title="搜索" id="shousuo100" class="tubiao tubiao100">f</a>
+  <div id="sixing9">
+   <div id="sixing7">
+    <span id="sixing8">
+	 <input type="text" maxlength="20" value="查找联系人或群"  id="search11">
+	</span>
+   </div>
+   <div id="sixing10">
+     <div id="sixing11">
+	  <div id="sixing12">
+	    <p class="text">搜索你的联系人发条私信吧~</p>
+	  </div>
+	 </div>
+   </div>
+   <div id="sixing13">
+    <a id="sixing15" target="blank" href="//weibo.com/messages">查看全部私信</a>
+	<a href="javascript:;"  id="sixing14">J</a>
+   </div>
+   <div id="sixing16">
+     <ul>
+	   <li>
+         <a href="javascript:;">关闭热点提醒</a>	   
+	   </li>
+	   <li>
+         <a href="javascript:;">开启声音提醒</a>	   
+	   </li>
+	  </ul>
+   </div>
+  </div>
+  <div id="sixing17">
+    <div id="sixing18">
+	 <a href="javascript:;" id="guan10">X</a>
+	</div>
+	  <div id="sixing19">
+	    <div id="sixing20">
+		 <p id="sixing21">
+		  <i id="sixing22"></i>
+		 </p>
+		 <p class="text">还没收到私信哦</p>
+		</div>
+	  </div>
+	</div>
+  </div>
+  <script>  
+ $("#sixing").click(
+    function(){
+               $("#sixing5").css('display','block');
+               $("#sixing").css('display','none');
+			   $("#guan3").css('display','block');
+    }
+);
+ $("#guan3").click(
+    function(){
+               $("#sixing5").css('display','none');
+               $("#sixing").css('display','block');
+			   $("#guan3").css('display','none');
+    }
+);
+</script>
+<script>	
+$("#search11").focus(
+    function(){
+               $("#search11").val("");			   
+    }
+);
+ $("#search11").blur(
+    function(){
+			   $("#search11").css("color",'#aaa');
+			   $("#search11").val("查找联系人或群");
+});
+ $("#search11").keydown(
+    function(){
+			   $("#search11").css("color",'#333');
+});
+</script>
+<script>
+ $("#sixing14").click(
+      function(){
+                 $("#sixing16").toggle();			   
+    }
+);
+$(document).click(function(){
+    $("#sixing16").hide();
+});
+$("#sixing14").click(function(event){
+    event.stopPropagation();
+});
+$("#guan10").click(function(event){
+     $("#sixing5").toggle();
+     $("#sixing").toggle();	 
+});
+</script>
+</body>
 </body>
 </html>
