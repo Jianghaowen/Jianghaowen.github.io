@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "好想见到zyj"
+title:      好想见到zyj
 subtitle:   
 date:       2018-10-27 15:25:00
 author:     "Jianghaowen"
