@@ -64,9 +64,9 @@ disqus_username: haowenjiang
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "生于天地之清澈，<br>归于本愿之清澄。"
-sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+# sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
