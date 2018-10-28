@@ -2,7 +2,7 @@
 layout:     post
 title:      线性回归和线性分类算法学习理解
 subtitle:   
-date:       2018-10-27 15:25:00
+date:       2018-10-28 20:09:00
 author:     "Jianghaowen"
 header-img: "img/post-bg-2015.jpg"
 catalog: false
