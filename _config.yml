@@ -72,7 +72,7 @@ sidebar-about-description: "生于天地之清澈，<br>归于本愿之清澄。
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size:1           # A tag will be featured if the size of it is more than this condition value
+featured-condition-size:0          # A tag will be featured if the size of it is more than this condition value
 
 
 
