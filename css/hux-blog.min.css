@@ -26,7 +26,7 @@
 		 position: absolute;
          z-index: 2;
 		 display: inline-block;
-         background-image: url(/img/2.png);
+         #background-image: url(/img/2.png);#
          background-repeat: no-repeat;
          background-color: transparent;
 }
@@ -57,3 +57,4 @@ a {
 a:hover {
 text-decoration: none;
 }
+
