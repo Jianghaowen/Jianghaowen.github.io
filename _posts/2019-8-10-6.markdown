@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      统计学习方法理解1
+title: 统计学习方法理解1
 subtitle:   
 date:       2019-8-10 1:40:00
 author:     "Jianghaowen"
