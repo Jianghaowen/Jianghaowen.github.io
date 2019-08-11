@@ -2,7 +2,7 @@
 layout:     post
 title: 统计学习方法理解3
 subtitle:   
-date:       2019-8-10 17:14:00
+date:       2019-8-11 17:14:00
 author:     "Jianghaowen"
 header-img: "img/post-bg-2015.jpg"
 catalog: false
